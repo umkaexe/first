@@ -2,28 +2,24 @@
   height: 490px;
   width: 280px;
   text-align: center;
-  border: 3px solid white;
   border-radius: 10px;
   box-shadow: 1px 2px 5px gray;
-  margin: 10px;
   text-align: center;
-  padding: 40px;
-  
 }
 .button {
-  width: 141px;
-  height: 34px;
+  padding: 9px 35px;
   background-color: #3278FF;
   border-radius: 5px;
   color: white;
-  border: 3px solid #3278FF;
+  border: none;
   font-size: large;
 }
 main {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: calc(100vh - 66px);
+  gap: 26px;
 }
 .preview {
   height: 274px;

@@ -1,20 +1,11 @@
 .header {
   display: flex;
   background-color: #3278FF;
-  padding-left: 70px;
-  padding-right: 70px;
-  padding: 13px;
+  padding: 13px 70px;
 }
 .phone {
   color: white;
   text-decoration: none;
 }
-.container {
-  width:1600px;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+
 
